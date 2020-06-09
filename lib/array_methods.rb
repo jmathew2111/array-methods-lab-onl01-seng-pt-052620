@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
   array = ["Nientendo,Playstation,Xbox"]
-  array.sort (array)
+  array.sort
 end
 
 def using_reverse(array)
